@@ -174,8 +174,14 @@ The Power BI dashboard provides interactive analysis of:
 
 ---
 
+
 # 📸 Dashboard Preview
 
+Your dashboard preview is available in the PDF file below.
+
+# 📄 Dashboard PDF
+
+📥 [View Diwali Sales Analysis Dashboard](./Diwali%20Sales%20Analysis.pdf)
 ## 📊 Diwali Sales Dashboard
 
 ![Diwali Sales Dashboard](Diwali_Sales_Analysis.pbit)
@@ -194,7 +200,7 @@ You can also open the report here:
 
 ---
 
-# 📁 Project Structure
+
 
 # 📁 Project Structure
 
