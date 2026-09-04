@@ -196,33 +196,35 @@ You can also open the report here:
 
 # 📁 Project Structure
 
+# 📁 Project Structure
+
 ```text
 DIWALI-SALES-ANALYSIS/
 │
 ├── Diwali Sales Data.csv
 ├── Diwali_Sales_Analysis.ipynb
 ├── Diwali Sales Analysis.pdf
-├── README.md
+└── README.md
+```
 
-
-
----
 ---
 
 # 👨‍💻 Author
 
-**Akash Singh**
+**Akash Singh**  
 B.Tech Student | Aspiring Data Analyst
 
 ## 📫 Connect With Me
 
-* **GitHub:** [AKASHPATEL-89](https://github.com/AKASHPATEL-89)
-* **LinkedIn:** [Akash Singh](https://www.linkedin.com/in/akash-singh-347a8a318/)
+- **GitHub:** [AKASHPATEL-89](https://github.com/AKASHPATEL-89)
+- **LinkedIn:** [Akash Singh](https://www.linkedin.com/in/akash-singh-347a8a318/)
 
 ---
 
 ⭐ If you found this project useful, feel free to **star the repository!**
 
+---
+
 # 📌 Thank You!
 
-Thank you for visiting this project. Your feedback and suggestions are always welcome! 😊
+Thank you for visiting this project. Your feedback and suggestions are always welcome! 😊his project. Your feedback and suggestions are always welcome! 😊
